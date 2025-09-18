@@ -1,7 +1,5 @@
 # Terraform cheatsheet
 
-Not to be followed in any order, just a catalog of stuff you can do.
-
 ## Install - deinstall
 
 ```bash

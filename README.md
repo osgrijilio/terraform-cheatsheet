@@ -1,7 +1,3 @@
-# Logbook
+# Terraform Cheatsheet
 
-Minimal documentation notes during learning processes, using markdown.
-
-Then, look at individual chapters or generate full PDF book for review.
-
-Thanks for checking.
+Not to be followed in any order, just a catalog of stuff you can do.
